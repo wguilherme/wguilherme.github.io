@@ -7,6 +7,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my digital playground. Here I write about my studies and experiments with code and concepts.
   Join me on the journey of learning, one byte at a time.
 
+permalink: /:slug.html
+
 remote_theme: wguilherme/jekyll-minimal-synthwave
 
 # Social links
