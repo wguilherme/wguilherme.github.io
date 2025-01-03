@@ -1,5 +1,5 @@
 title: Withney Guilherme
-description: Meu site pessoal
+description: Software Developer | Open Source Enthusiast
 remote_theme: wguilherme/jekyll-minimal-synthwave
 
 # Social links
@@ -17,6 +17,7 @@ plugins:
 
 # Theme Configuration
 theme_config:
-  style: hacker # ou 'hacker' para o outro estilo
+  style: hacker # ou 'synthwave' para o outro estilo
   appearance: "auto" # pode ser "light", "dark" ou "auto"
   back_home_text: ".."
+  show_description: true

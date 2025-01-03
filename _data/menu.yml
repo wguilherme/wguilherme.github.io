@@ -1,0 +1,10 @@
+entries:
+  - title: posts
+    url: archive
+    entries:
+      - title: "Welcome to My Blog! 🚀"
+        url: welcome
+  - title: about
+    url: about
+  - title: rss
+    url: feed.xml
