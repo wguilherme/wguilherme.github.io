@@ -14,3 +14,9 @@ google_analytics: # seu código do GA aqui se desejar
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+# Theme Configuration
+theme_config:
+  style: hacker # ou 'hacker' para o outro estilo
+  appearance: "auto" # pode ser "light", "dark" ou "auto"
+  back_home_text: ".."
