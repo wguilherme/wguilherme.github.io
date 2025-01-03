@@ -4,8 +4,6 @@ entries:
     entries:
       - title: "Welcome to My Blog! 🚀"
         url: welcome.html
-      - title: "Meu Primeiro Post"
-        url: meu-primeiro-post.html
   - title: about
     url: about
   - title: rss
