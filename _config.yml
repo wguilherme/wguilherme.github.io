@@ -1,5 +1,12 @@
-title: Withney Guilherme
-description: Software Developer | Open Source Enthusiast
+title: root@wguilherme.github.io:~$ echo "Access granted, you're in my hackspace now"
+author: Withney Guilherme # name of site's author
+email: wguilherme.dev@gmail.com # email of site's author
+url: wguilherme.github.io # root address of the site
+# baseurl: "/minimal-synthwave" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: >- # this means to ignore newlines until "baseurl:"
+  Welcome to my digital playground. Here I write about my studies and experiments with code and concepts.
+  Join me on the journey of learning, one byte at a time.
+
 remote_theme: wguilherme/jekyll-minimal-synthwave
 
 # Social links
@@ -18,6 +25,5 @@ plugins:
 # Theme Configuration
 theme_config:
   style: hacker # ou 'synthwave' para o outro estilo
-  appearance: "auto" # pode ser "light", "dark" ou "auto"
   back_home_text: ".."
   show_description: true
